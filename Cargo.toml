@@ -1,5 +1,5 @@
 [package]
-name = "slack_bot_test"
+name = "slack-sdk"
 version = "0.1.0"
 edition = "2024"
 
